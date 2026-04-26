@@ -1,4 +1,4 @@
-# Argie Armada - Professional Operations Portfolio
+# Argie Armada - Professional Portfolio
 
 A high-performance, modern, and accessible portfolio website designed for **Operations Support, Virtual Assistance, and Data Integrity Specialist** roles. This project showcases a clean, metric-driven approach to professional identity, built with vanilla technologies for maximum speed and stability.
 
@@ -34,14 +34,6 @@ A high-performance, modern, and accessible portfolio website designed for **Oper
 ├── script.js           # Interactive engine and scroll logic
 └── robots.txt          # Search engine instructions
 ```
-
-## 🌐 Deployment
-
-This portfolio is a static site and can be hosted anywhere. 
-
-1. **GitHub Pages**: Go to Settings > Pages > Select `main` branch.
-2. **Netlify**: Drag and drop the folder into the Netlify dashboard.
-3. **Vercel**: Run `vercel` in the project root.
 
 ## 📄 License
 
