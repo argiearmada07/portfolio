@@ -1,44 +1,40 @@
-# Operations Execution Specialist Portfolio
-[https://argiearmada07.github.io/portfolio/](https://argiearmada07.github.io/portfolio/)
+# Argie Armada - Professional Portfolio
 
-A high-conversion service landing page designed for **Operations Execution, Remote Support, and Data Hardening** roles. This project uses a "Safe Hire" strategy to position a professional operations specialist for high-growth SaaS, startups, and agencies.
+A high-performance, modern, and accessible portfolio website designed for **Operations Support, Virtual Assistance, and Data Integrity Specialist** roles. This project showcases a clean, metric-driven approach to professional identity, built with vanilla technologies for maximum speed and stability.
 
-## 🚀 Strategic Features
+## 🚀 Key Features
 
--   **Senior Positioning**: Anchored as an **Operations Execution Specialist** to differentiate from generalist Virtual Assistants.
--   **"Safe Hire" Strategy**: Focused on risk reduction for clients, emphasizing "Zero-Oversight Execution" and "No Follow-up Needed."
--   **Outcome-Driven Copy**: Every section focuses on the business value delivered (Leadership Focus, Workflow Predictability, Data Accuracy) rather than a list of chores.
--   **Structured Availability**: A dedicated section framing part-time availability as a strength backed by a career of full-time operational experience.
--   **Conversion-First UI**:
-    -   **Live Availability Pulse**: Real-time status indicator to create urgency.
-    -   **Metric-Style Proof**: High-visibility cards showcasing 99.9% accuracy and 10k+ monthly tasks.
-    -   **Mobile-First Design**: Fully responsive grid system optimized for rapid scanning on any device.
--   **Advanced Theme System**: Professional Light/Dark mode toggle with automatic system preference detection and `localStorage` persistence.
+-   **Premium Design System**: Built on a unified "Master Card" and "Master Button" system with a 8px-base spacing rhythm.
+-   **Intelligent Theme Management**: Seamlessly toggle between Light and Dark modes with automatic persistence via `localStorage`.
+-   **Security-First Communication**: Integrated **Email Obfuscation** logic to protect contact information from scrapers while maintaining a perfect user experience.
+-   **High-Performance Interactivity**:
+    -   Throttled scroll engine using `requestAnimationFrame` for buttery-smooth animations.
+    -   Magnetic tactile buttons for a premium interactive feel.
+    -   Dynamic "Back to Top" floating navigation.
+-   **Metric-Driven Experience**: Layout optimized for "eye-anchor" scanning, highlighting quantifiable achievements (99% completion rates, 30% efficiency gains).
+-   **SEO & Accessibility Ready**:
+    -   Full JSON-LD Schema integration for professional indexing.
+    -   WCAG-compliant keyboard navigation and ARIA attributes.
+    -   Responsive typography scales for every device size.
 
 ## 🛠 Tech Stack
 
--   **Structure**: Semantic HTML5 (SEO Optimized)
--   **Styling**: Vanilla CSS3 (Custom Properties & Dark Mode logic)
--   **Logic**: Modern JavaScript (ES6+, Intersection Observer, Smooth Scroll)
+-   **Structure**: Semantic HTML5
+-   **Styling**: Vanilla CSS3 (Custom Properties / Design Tokens)
+-   **Logic**: Modern JavaScript (ES6+)
 -   **Typography**: Inter & Outfit (Dual-Font System)
--   **Performance**: Zero external dependencies (Vanilla implementation)
+-   **Icons**: Hand-crafted SVG system
 
 ## 📂 Project Structure
 
 ```text
-├── assets/             # Images and branding assets
-├── index.html          # Core structure and SEO/Social metadata
-├── styles.css          # Design system, theme variables, and layout
-├── script.js           # Theme logic and scroll interaction engine
+├── assets/             # Images and design assets
+├── index.html          # Core structure and SEO metadata
+├── styles.css          # Design system and layout
+├── script.js           # Interactive engine and scroll logic
 └── robots.txt          # Search engine instructions
 ```
 
-## 📄 SEO & Social
-
--   **Open Graph & Twitter Cards**: Ready for high-impact sharing on LinkedIn and Twitter.
--   **Semantic Hierarchy**: Properly structured H-tags for deep search engine indexing.
--   **Meta Description**: Optimized for "Remote Operations Support" and "SaaS Startup" search intent.
-
 ## 📄 License
 
-MIT License - feel free to use this as a foundation for your own professional service landing page.
+MIT License - feel free to use this as a foundation for your own professional identity.
