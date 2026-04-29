@@ -10,6 +10,7 @@
     <meta name="description"
         content="Professional Operations Execution Support for SaaS, Startups, and Agencies. High-volume workflow tracking and data hardening without micromanagement.">
     <link rel="canonical" href="https://argiearmada07.github.io/portfolio/">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png?v=1">
 
     <!-- Social Media (Open Graph) -->
     <meta property="og:type" content="website">
@@ -38,12 +39,16 @@
 
     <nav>
         <div class="nav-container">
-            <ul class="nav-links">
+            <button class="mobile-nav-toggle" id="mobile-nav-toggle" aria-label="Toggle mobile menu">
+                <span class="hamburger"></span>
+            </button>
+            <ul class="nav-links" id="nav-links">
                 <li><a href="#services">Services</a></li>
                 <li><a href="#style">Process</a></li>
                 <li><a href="#availability">Availability</a></li>
                 <li><a href="#experience">Impact</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <div class="nav-indicator" id="nav-indicator"></div>
             </ul>
             <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
                 <svg class="sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="18.36" x2="5.64" y2="16.92"></line><line x1="18.36" y1="5.64" x2="19.78" y2="7.06"></line></svg>
@@ -53,6 +58,7 @@
     </nav>
 
     <header class="hero">
+        <div class="mesh-gradient"></div>
         <div class="container">
             <div class="status-indicator">
                 <span class="pulse"></span>
@@ -105,7 +111,7 @@
                 <h2>Remove Workload Stress</h2>
             </div>
             <div class="services-grid">
-                <div class="card">
+                <div class="card stagger-item" style="--stagger-index: 1">
                     <h3>Executive Operations</h3>
                     <p class="card-subtitle">Your inbox and tasks stay organized without you managing every step</p>
                     <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 1rem;">Freeing leadership from the administrative layer so work flows without constant oversight.</p>
@@ -115,7 +121,7 @@
                         <li style="margin-bottom: 0.5rem;">• Stakeholder Sync & Follow-up</li>
                     </ul>
                 </div>
-                <div class="card">
+                <div class="card stagger-item" style="--stagger-index: 2">
                     <h3>Workflow Execution</h3>
                     <p class="card-subtitle">Daily operations organized so tasks stop getting missed</p>
                     <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 1rem;">Managing high-volume ticket streams and operational requests inside your SOP-based systems.</p>
@@ -125,7 +131,7 @@
                         <li style="margin-bottom: 0.5rem;">• Structured SOP Execution</li>
                     </ul>
                 </div>
-                <div class="card">
+                <div class="card stagger-item" style="--stagger-index: 3">
                     <h3>Data Hardening</h3>
                     <p class="card-subtitle">Keeps your operational data clean so decisions stay reliable</p>
                     <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 1rem;">Removing the friction of messy data. Transforming system logs into accurate assets.</p>
@@ -135,7 +141,7 @@
                         <li style="margin-bottom: 0.5rem;">• Integrity Auditing</li>
                     </ul>
                 </div>
-                <div class="card">
+                <div class="card stagger-item" style="--stagger-index: 4">
                     <h3>Systems Maintenance</h3>
                     <p class="card-subtitle">Infrastructure stays updated without you managing it</p>
                     <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 1rem;">Owning the documentation and system health that allows your team to scale without breaks.</p>
@@ -287,7 +293,8 @@
     <section id="contact" class="section contact-section" style="background-color: var(--bg-secondary);">
         <div class="container">
             <div class="contact-box">
-                <span class="section-subtitle">Decision Closure</span>
+                <div class="mesh-gradient"></div>
+                <span class="section-subtitle" style="color: rgba(255,255,255,0.7)">Decision Closure</span>
                 <h2>Ready for Operational Relief?</h2>
                 <p style="margin-bottom: 2rem; opacity: 0.9;">I am available for fast onboarding and immediate system integration. Work stays organized. Nothing gets missed.</p>
                 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
