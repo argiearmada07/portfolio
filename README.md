@@ -1,13 +1,13 @@
-# Virtual Assistant & Operations Specialist Portfolio
+# Technical Virtual Assistant & Operations Specialist Portfolio
 [https://argiearmada07.github.io/portfolio/](https://argiearmada07.github.io/portfolio/)
 
-A high-conversion landing page designed for **Virtual Assistant, Operations Support, and Engineering Admin** roles. This project is built to showcase 5+ years of verified career history at Placester, Inc., with a focus on trust, reliability, and technical competence.
+A high-conversion landing page designed for **Technical Virtual Assistant, Data Operations, and Engineering Admin** roles. This project is built to showcase 5+ years of verified career history at Placester, Inc., with a focus on trust, reliability, and technical competence.
 
 ## 🚀 Key Features
 
--   **Professional Branding**: Positioned as a **Virtual Assistant & Operations Specialist** to bridge the gap between generalist support and technical execution.
+-   **Professional Branding**: Positioned as a **Technical Virtual Assistant & Operations Specialist** to bridge the gap between generalist support and technical execution.
 -   **Data-Backed Proof**: High-visibility metrics from 5+ years at Placester, Inc., showcasing 99.9% data accuracy and 10k+ monthly task volume.
--   **Technical Arsenal**: Detailed listing of professional tools including Salesforce, Jira, Notion, MySQL, and modern AI productivity stacks (ChatGPT, Claude, Gemini).
+-   **Technical Arsenal**: Detailed listing of professional tools including Salesforce, Jira, MySQL, MongoDB, Looker Studio, and modern AI productivity stacks (ChatGPT, Claude, Gemini).
 -   **Conversion-First Design**:
     -   **Direct Booking**: Integrated Calendly for instant discovery call scheduling.
     -   **High Visibility**: "Available for New Projects" status indicator with real-time pulse animation.
@@ -35,7 +35,7 @@ A high-conversion landing page designed for **Virtual Assistant, Operations Supp
 ## 📄 SEO & Social
 
 -   **Open Graph & Twitter Cards**: Fully optimized for professional sharing on LinkedIn and Twitter.
--   **Semantic SEO**: Proper H-tag hierarchy and meta-descriptions tailored for "Virtual Assistant" and "Remote Operations" search intent.
+-   **Semantic SEO**: Proper H-tag hierarchy and meta-descriptions tailored for "Technical Virtual Assistant" and "Technical Operations" search intent.
 -   **Optimized Performance**: Zero external scripts or frameworks for lightning-fast load times.
 
 ## 📄 License
